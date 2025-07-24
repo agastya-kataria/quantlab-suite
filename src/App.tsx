@@ -5,6 +5,9 @@ import PortfolioOptimizer from './components/PortfolioOptimizer';
 import OptionsPricing from './components/OptionsPricing';
 import MonteCarloSimulation from './components/MonteCarloSimulation';
 import RiskAnalysis from './components/RiskAnalysis';
+import OrderManagement from './components/OrderManagement';
+import MarketMicrostructure from './components/MarketMicrostructure';
+import StrategyManager from './components/StrategyManager';
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -21,6 +24,12 @@ function App() {
         return <MonteCarloSimulation />;
       case 'risk':
         return <RiskAnalysis />;
+      case 'orders':
+        return <OrderManagement />;
+      case 'microstructure':
+        return <MarketMicrostructure />;
+      case 'strategies':
+        return <StrategyManager />;
       default:
         return <Dashboard />;
     }

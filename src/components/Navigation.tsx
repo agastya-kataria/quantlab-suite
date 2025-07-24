@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrendingUp, PieChart, Calculator, BarChart3, Activity, Settings } from 'lucide-react';
+import { TrendingUp, PieChart, Calculator, BarChart3, Activity, Send, Layers, Brain } from 'lucide-react';
 
 interface NavigationProps {
   activeTab: string;
@@ -13,6 +13,9 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, setActiveTab }) => {
     { id: 'options', label: 'Options Pricing', icon: Calculator },
     { id: 'montecarlo', label: 'Monte Carlo', icon: TrendingUp },
     { id: 'risk', label: 'Risk Analysis', icon: Activity },
+    { id: 'orders', label: 'Order Management', icon: Send },
+    { id: 'microstructure', label: 'Market Structure', icon: Layers },
+    { id: 'strategies', label: 'Strategy Framework', icon: Brain },
   ];
 
   return (
