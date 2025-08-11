@@ -134,11 +134,60 @@ QuantLab-Suite is not just a trading platform — it’s a **portfolio-worthy de
 ---
 
 ## 📂 **Repository Structure**
-quantlab-suite/
+quantlab-suite
 │
-├── backend/ # Order management, risk engine, data processing
-├── frontend/ # React-based dashboard and charting
-├── strategies/ # Built-in trading strategies and ML models
-├── tests/ # Unit & integration tests
-├── docs/ # Documentation and usage guides
-└── scripts/ # Deployment, monitoring, and data scripts
+├── backend
+├── frontend
+├── strategies
+├── tests
+├── docs
+└── scripts
+
+---
+
+
+---
+
+## 🖼 **Screenshots – Premium Showcase**
+
+> _Replace the image paths with your actual screenshot file paths inside `screenshots/` folder._
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbf21b37-081d-4436-947d-5c613739b03c" alt="Dashboard" width="48%">
+  <img src="https://github.com/user-attachments/assets/0c515178-c148-4bea-ae16-a6d46768d07f" alt="Professional Analytics" width="48%">
+  </p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/c01d1cc7-3fc2-4139-876c-2cc1e14d0b3b" alt="Portfolio" width="48%">
+  <img src="https://github.com/user-attachments/assets/34cdfcd0-0b7b-469c-b291-72c4da57394c" alt="Options Pricing" width="48%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2a8fd8b-7263-4034-b857-2f6299a48ba6" alt="Monte Carlo" width="48%">
+  <img src="https://github.com/user-attachments/assets/2b098880-cce1-4b89-a679-305436e5ee1b" alt="Risk Analysis" width="48%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc21f8d3-8f37-4021-9136-bb4bc846bd83" alt="Order Management" width="48%">
+  <img src="https://github.com/user-attachments/assets/22dd491d-76f7-49fe-bcf9-ccd8f3ba1b55" alt="Strategy Framework" width="48%">
+</p>
+<p align="center">
+  <img width="1908" height="857" alt="image" src="https://github.com/user-attachments/assets/d6c64fd2-fbb1-4ba4-94c0-87e5d8dc435b" />
+
+</p>
+
+---
+
+## 🏆 **Competitive Advantage**
+Building this suite showcases:
+- Institutional-grade trading system design
+- End-to-end trading lifecycle coverage
+- Strong grasp of financial engineering & software architecture
+- Production-readiness & regulatory awareness
+
+---
+
+## ✅ **Development Practices**
+- Conventional commit messages (`feat:`, `fix:`, `docs:`)
+- Feature branch workflow & pull requests
+- 90%+ test coverage with automated CI/CD
+- Code quality checks via SonarCloud / CodeClimate
+- Transparent task tracking with GitHub Projects
+- Repository wiki for theory & implementation notes
