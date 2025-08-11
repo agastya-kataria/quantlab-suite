@@ -134,3 +134,11 @@ QuantLab-Suite is not just a trading platform — it’s a **portfolio-worthy de
 ---
 
 ## 📂 **Repository Structure**
+quantlab-suite/
+│
+├── backend/ # Order management, risk engine, data processing
+├── frontend/ # React-based dashboard and charting
+├── strategies/ # Built-in trading strategies and ML models
+├── tests/ # Unit & integration tests
+├── docs/ # Documentation and usage guides
+└── scripts/ # Deployment, monitoring, and data scripts
