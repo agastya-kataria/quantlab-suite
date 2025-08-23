@@ -191,3 +191,8 @@ Building this suite showcases:
 - Code quality checks via SonarCloud / CodeClimate
 - Transparent task tracking with GitHub Projects
 - Repository wiki for theory & implementation notes
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
