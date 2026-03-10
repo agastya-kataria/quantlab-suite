@@ -150,7 +150,6 @@ quantlab-suite
 
 ## 🖼 **Screenshots – Premium Showcase**
 
-> _Replace the image paths with your actual screenshot file paths inside `screenshots/` folder._
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbf21b37-081d-4436-947d-5c613739b03c" alt="Dashboard" width="48%">
